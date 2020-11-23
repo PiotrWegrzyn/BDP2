@@ -1,0 +1,24 @@
+Oracle
+
+describe FactInternetSales
+
+
+MySQL
+
+describe FactInternetSales
+
+
+psql konsola:
+
+/d FactInternetSales
+
+psql kwerenda:
+
+SELECT 
+   table_name, 
+   column_name, 
+   data_type 
+FROM 
+   information_schema.columns
+WHERE 
+   table_name = 'FactInternetSales';
