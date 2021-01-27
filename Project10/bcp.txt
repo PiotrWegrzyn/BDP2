@@ -1,0 +1,2 @@
+bcp  AdventureWorksDW2019.dbo.CUSTOMERS_293267 format nul -T -t, -c -f  result.fmt      
+bcp  AdventureWorksDW2019.dbo.CUSTOMERS_293267 in \\Mac\Home\Desktop\CUSTOMERS_290926.csv  -S PETERWEGRZYE16B  -U PETERWEGRZYE16B\peter   -t"," -T  -f result.fmt

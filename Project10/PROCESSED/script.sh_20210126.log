@@ -1,0 +1,428 @@
+20210126132257 - File downloaded
+20210126132301 - File extracted
+-e File has:    10008 lines
+20210126132301 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126132302 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126132302 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126132302 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126132302 - Removing existing lines
+-e Already existing lines: 0
+20210126132302 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126132302 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126132302 - Splitting column Customer_name to first and last name  - Succesful
+20210126132303 - Creating table in db - Succesful
+20210126132303 - Inserting data to db table - Succesful
+20210126132303 - Updatind table  - Succesful
+20210126132303 - Exporting table to .csv file  - Succesful
+20210126132303 - Zipping .csv file - Succesful
+20210126132333 - Email sent
+20210126132654 - File downloaded
+20210126132654 - File extracted
+-e File has:    10008 lines
+20210126132654 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126132654 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126132655 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126132655 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126132655 - Removing existing lines
+-e Already existing lines: 0
+20210126132655 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126132655 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126132655 - Splitting column Customer_name to first and last name  - Succesful
+20210126132656 - Creating table in db - Succesful
+20210126132656 - Inserting data to db table - Succesful
+20210126132656 - Updatind table  - Succesful
+20210126132656 - Exporting table to .csv file  - Succesful
+20210126132656 - Zipping .csv file - Succesful
+20210126132850 - Email sent
+20210126132853 - File downloaded
+20210126132853 - File extracted
+-e File has:    10008 lines
+20210126132854 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126132854 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126132854 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126132854 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126132854 - Removing existing lines
+-e Already existing lines: 0
+20210126132854 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126132854 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126132855 - Splitting column Customer_name to first and last name  - Succesful
+20210126132855 - Creating table in db - Succesful
+20210126132855 - Inserting data to db table - Succesful
+20210126132855 - Updatind table  - Succesful
+20210126132855 - Exporting table to .csv file  - Succesful
+20210126132855 - Zipping .csv file - Succesful
+20210126133317 - Email sent
+20210126133319 - File downloaded
+20210126133319 - File extracted
+-e File has:    10008 lines
+20210126133319 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133319 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133319 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126133319 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133319 - Removing existing lines
+-e Already existing lines: 0
+20210126133319 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126133320 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126133320 - Splitting column Customer_name to first and last name  - Succesful
+20210126133320 - Creating table in db - Succesful
+20210126133320 - Inserting data to db table - Succesful
+20210126133320 - Updatind table  - Succesful
+20210126133321 - Exporting table to .csv file  - Succesful
+20210126133321 - Zipping .csv file - Succesful
+20210126133437 - Email sent
+20210126133438 - File downloaded
+20210126133438 - File extracted
+-e File has:    10008 lines
+20210126133438 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133438 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133438 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126133438 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133439 - Removing existing lines
+-e Already existing lines: 0
+20210126133439 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126133439 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126133439 - Splitting column Customer_name to first and last name  - Succesful
+20210126133439 - Creating table in db - Succesful
+20210126133440 - Inserting data to db table - Succesful
+20210126133440 - Updatind table  - Succesful
+20210126133440 - Exporting table to .csv file  - Succesful
+20210126133440 - Zipping .csv file - Succesful
+20210126133449 - Email sent
+20210126133450 - File downloaded
+20210126133450 - File extracted
+-e File has:    10008 lines
+20210126133450 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133450 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133450 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126133450 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133450 - Removing existing lines
+-e Already existing lines: 0
+20210126133450 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126133451 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126133451 - Splitting column Customer_name to first and last name  - Succesful
+20210126133451 - Creating table in db - Succesful
+20210126133451 - Inserting data to db table - Succesful
+20210126133451 - Updatind table  - Succesful
+20210126133451 - Exporting table to .csv file  - Succesful
+20210126133452 - Zipping .csv file - Succesful
+20210126133455 - Email sent
+20210126133525 - File downloaded
+20210126133525 - File extracted
+-e File has:    10008 lines
+20210126133525 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133525 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133525 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines
+20210126133525 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133526 - Removing existing lines
+-e Already existing lines: 0
+20210126133526 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126133526 - Removed lines with missing comma
+-e File has 6 lines without comma between name and surname
+20210126133526 - Splitting column Customer_name to first and last name  - Succesful
+20210126133526 - Creating table in db - Succesful
+20210126133526 - Inserting data to db table - Succesful
+20210126133527 - Updatind table  - Succesful
+20210126133527 - Exporting table to .csv file  - Succesful
+20210126133527 - Zipping .csv file - Succesful
+20210126133539 - File downloaded
+20210126133539 - File extracted
+-e File has:    10008 lines
+20210126133539 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133539 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133539 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines.
+20210126133540 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133540 - Removing existing lines
+-e Already existing lines: 0
+20210126133540 - Removed lines with secret code present
+-e File has 10002 lines with secret_code column not empty
+20210126133540 - Email sent
+20210126133639 - File downloaded
+20210126133641 - File extracted
+-e File has:    10008 lines
+20210126133641 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126133641 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126133641 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines.
+20210126133642 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126133642 - Removing existing lines
+-e Already existing lines: 0
+20210126133642 - Removed lines with secret code present
+-e File has 10008 lines with secret_code column not empty
+20210126133642 - Email sent
+20210126134045 - File downloaded
+20210126134047 - File extracted
+-e File has:    10008 lines
+20210126134047 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134047 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126134047 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines.
+20210126134047 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134047 - Removing existing lines
+-e Already existing lines: 0
+20210126134047 - Removed lines with secret code present
+-e File has 13 lines with secret_code column not empty
+20210126134047 - Email sent
+20210126134118 - File downloaded
+20210126134120 - File extracted
+-e File has:    10008 lines
+20210126134120 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134120 - Removed malformed lines
+-e 		Downloaded file has:       10 wrong length rows
+20210126134120 - Removed duplicates
+-e 		Downloaded file has: 5 duplicated lines.
+20210126134120 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134120 - Removing existing lines
+-e Already existing lines: 0
+20210126134121 - Removed lines with secret code present
+-e File has 13 lines with secret_code column not empty
+20210126134121 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134121 - Splitting column Customer_name to first and last name  - Succesful
+20210126134121 - Creating table in db - Succesful
+20210126134121 - Inserting data to db table - Succesful
+20210126134121 - Updatind table  - Succesful
+20210126134122 - Exporting table to .csv file  - Succesful
+20210126134122 - Zipping .csv file - Succesful
+20210126134700 - File downloaded
+20210126134700 - File extracted
+-e File has:    10008 lines
+20210126134700 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134700 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126134701 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126134701 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134701 - Removing existing lines
+-e Already existing lines: 0
+20210126134701 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126134701 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134701 - Splitting column Customer_name to first and last name  - Succesful
+20210126134702 - Creating table in db - Succesful
+20210126134702 - Inserting data to db table - Succesful
+20210126134702 - Updatind table  - Succesful
+20210126134702 - Exporting table to .csv file  - Succesful
+20210126134702 - Zipping .csv file - Succesful
+20210126134806 - Email sent
+20210126134808 - File downloaded
+20210126134808 - File extracted
+-e File has:    10008 lines
+20210126134808 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134808 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126134808 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126134808 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134809 - Removing existing lines
+-e Already existing lines: 0
+20210126134809 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126134809 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134809 - Splitting column Customer_name to first and last name  - Succesful
+20210126134809 - Creating table in db - Succesful
+20210126134809 - Inserting data to db table - Succesful
+20210126134810 - Updatind table  - Succesful
+20210126134810 - Exporting table to .csv file  - Succesful
+20210126134810 - Zipping .csv file - Succesful
+20210126134832 - Email sent
+20210126134833 - File downloaded
+20210126134834 - File extracted
+-e File has:    10008 lines
+20210126134834 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134834 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126134834 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126134834 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134834 - Removing existing lines
+-e Already existing lines: 0
+20210126134834 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126134835 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134835 - Splitting column Customer_name to first and last name  - Succesful
+20210126134835 - Creating table in db - Succesful
+20210126134835 - Inserting data to db table - Succesful
+20210126134835 - Updatind table  - Succesful
+20210126134835 - Exporting table to .csv file  - Succesful
+20210126134835 - Zipping .csv file - Succesful
+20210126134842 - Email sent
+20210126134843 - File downloaded
+20210126134843 - File extracted
+-e File has:    10008 lines
+20210126134844 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134844 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126134844 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126134844 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134844 - Removing existing lines
+-e Already existing lines: 0
+20210126134844 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126134844 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134845 - Splitting column Customer_name to first and last name  - Succesful
+20210126134845 - Creating table in db - Succesful
+20210126134845 - Inserting data to db table - Succesful
+20210126134845 - Updatind table  - Succesful
+20210126134845 - Exporting table to .csv file  - Succesful
+20210126134845 - Zipping .csv file - Succesful
+20210126134855 - Email sent
+20210126134856 - File downloaded
+20210126134856 - File extracted
+-e File has:    10008 lines
+20210126134856 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126134856 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126134856 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126134856 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126134857 - Removing existing lines
+-e Already existing lines: 0
+20210126134857 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126134857 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126134857 - Splitting column Customer_name to first and last name  - Succesful
+20210126134857 - Creating table in db - Succesful
+20210126134858 - Inserting data to db table - Succesful
+20210126134858 - Updatind table  - Succesful
+20210126134858 - Exporting table to .csv file  - Succesful
+20210126134858 - Zipping .csv file - Succesful
+20210126134858 - Email sent
+20210126135154 - File downloaded
+20210126135154 - File extracted
+-e File has:    10008 lines
+20210126135154 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126135154 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126135154 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126135154 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126135154 - Removing existing lines
+-e Already existing lines: 0
+20210126135154 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126135155 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126135155 - Splitting column Customer_name to first and last name  - Succesful
+20210126135155 - Creating table in db - Succesful
+20210126135155 - Inserting data to db table - Succesful
+20210126135155 - Updatind table  - Succesful
+20210126135155 - Exporting table to .csv file  - Succesful
+20210126135156 - Zipping .csv file - Succesful
+20210126135356 - File downloaded
+20210126135356 - File extracted
+-e File has:    10008 lines
+20210126135356 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126135356 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126135356 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126135356 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126135357 - Removing existing lines
+-e Already existing lines: 0
+20210126135357 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126135357 - Removed lines with missing comma
+-e File has 9995 lines without comma between name and surname
+20210126135357 - Splitting column Customer_name to first and last name  - Succesful
+20210126135357 - Creating table in db - Succesful
+20210126135357 - Inserting data to db table - Succesful
+20210126135358 - Updatind table  - Succesful
+20210126135358 - Exporting table to .csv file  - Succesful
+20210126135358 - Zipping .csv file - Succesful
+20210126135433 - Email sent
+20210126135454 - File downloaded
+20210126135454 - File extracted
+-e File has:    10008 lines
+20210126135454 - Removed empty lines
+-e Dowloaded file has: 0 empty lines
+20210126135454 - Removed malformed lines
+-e Downloaded file has:       10 wrong length rows
+20210126135454 - Removed duplicates
+-e Downloaded file has: 5 duplicated lines.
+20210126135455 - Removed records with wrong OrderQuality
+-e File has: 1 bad OrderQuality lines
+20210126135455 - Removing existing lines
+-e Already existing lines: 0
+20210126135455 - Removed lines with secret code present
+File has 13 lines with secret_code column not empty
+20210126135455 - Removed lines with missing comma
+-e File has 17 lines without comma between name and surname
+20210126135455 - Splitting column Customer_name to first and last name  - Succesful
+20210126135456 - Creating table in db - Succesful
+20210126135456 - Inserting data to db table - Succesful
+20210126135457 - Updatind table  - Succesful
+20210126135457 - Exporting table to .csv file  - Succesful
+20210126135457 - Zipping .csv file - Succesful
